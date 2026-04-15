@@ -28,3 +28,7 @@ The analysis focused on three layers: the visible distribution gap, the likely f
 - `data/raw/` — original source captures or reference material
 - `data/processed/` — cleaned notes, comparison tables, or structured summaries
 - `assets/` — supporting visuals, screenshots, and diagrams
+
+## Reading Path
+
+Start with this README for the project overview, then move to `docs/methodology.md` for the comparison logic, `docs/key-findings.md` for the main conclusions, and `docs/assumptions-and-limitations.md` for the evidence boundaries and caution areas.
