@@ -43,7 +43,25 @@ This file is used to collect the raw source material that may support the case s
 
 - Evidence name: Spotify Wrapped and Apple Replay flow comparison visual
 - Evidence type: Product-flow observation
-- Where it comes from: Personal case-study comparison material / flow visual
+- Where it comes from: assets/flow-comparison.png 
 - What it shows: A side-by-side comparison of how each recap experience appears to move from private review toward public sharing
 - What it supports: The interpretation that friction, share readiness, and path-to-broadcast likely differed between the two experiences
 - Caution: Useful for structured comparison of likely flow differences, but still not proof of exact user behavior or exact share conversion rates without internal platform data
+
+## Third Actual Evidence Item
+
+- Evidence name: TikTok hashtag virality audit
+- Evidence type: Public visibility signal
+- Where it comes from: assets/tiktok-hashtag-audit.png
+- What it shows: A large visible difference in TikTok hashtag volume between Spotify Wrapped and Apple Music Replay
+- What it supports: Directional evidence of a much stronger visible public circulation gap in favor of Spotify Wrapped
+- Caution: Useful as a strong public-signal indicator, but not enough on its own to prove exact total reach, user conversion, or platform-wide performance
+
+## Fourth Actual Evidence Item
+
+- Evidence name: Google Trends comparison
+- Evidence type: Public visibility signal
+- Where it comes from: assets/google-trends-comparison.png
+- What it shows: Repeated year-end search-interest spikes for Spotify Wrapped that appear much stronger than Apple Music Replay over time
+- What it supports: Directional support that the public attention gap was recurring rather than one-off
+- Caution: Useful for showing relative search-interest patterns, but not enough on its own to prove social sharing volume, exact reach, or conversion impact
