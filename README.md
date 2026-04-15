@@ -37,3 +37,14 @@ Start with this README for the project overview, then move to `docs/methodology.
 
 This repo currently contains the reconstructed case framework, methodological boundaries, early source inventory, and first-pass comparison notes. 
 Additional raw captures, public-signal references, and flow evidence can be added over time to strengthen the case's evidence base.
+
+## Visual Evidence Preview
+These visuals provide early support for the case's core comparison: visible circulation gap, product-flow friction, and recurring public attention differences.
+
+### Flow Comparison
+
+![Flow comparison](assets/flow-comparison.png)
+
+### TikTok Hashtag Audit
+
+![TikTok hashtag audit](assets/tiktok-hashtag-audit.png)
