@@ -29,3 +29,12 @@ This file is used to collect the raw source material that may support the case s
 - What it may support: Directional evidence that Spotify Wrapped generated stronger visible circulation than Apple Replay
 - Evidence strength: Moderate
 - Notes: Useful for supporting the existence of a distribution gap, but not enough to measure exact reach, exact share volume, or exact performance impact.
+
+## First Actual Evidence Item
+
+- Evidence name: Landing page case study screenshot
+- Evidence type: Supporting reference
+- Where it comes from: Personal landing page case study page
+- What it shows: The original framing of the case, including the behavioral audit angle, the viral-gap thesis, and the business-oriented interpretation of the comparison
+- What it supports: Preservation of the original project direction and confirmation of how the case was positioned at the time
+- Caution: Useful for understanding the original story and framing, but not strong evidence for proving the distribution gap or validating causal claims by itself
