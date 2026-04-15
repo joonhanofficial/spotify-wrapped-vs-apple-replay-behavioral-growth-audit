@@ -38,3 +38,12 @@ This file is used to collect the raw source material that may support the case s
 - What it shows: The original framing of the case, including the behavioral audit angle, the viral-gap thesis, and the business-oriented interpretation of the comparison
 - What it supports: Preservation of the original project direction and confirmation of how the case was positioned at the time
 - Caution: Useful for understanding the original story and framing, but not strong evidence for proving the distribution gap or validating causal claims by itself
+
+## Second Actual Evidence Item
+
+- Evidence name: Spotify Wrapped and Apple Replay flow comparison visual
+- Evidence type: Product-flow observation
+- Where it comes from: Personal case-study comparison material / flow visual
+- What it shows: A side-by-side comparison of how each recap experience appears to move from private review toward public sharing
+- What it supports: The interpretation that friction, share readiness, and path-to-broadcast likely differed between the two experiences
+- Caution: Useful for structured comparison of likely flow differences, but still not proof of exact user behavior or exact share conversion rates without internal platform data
