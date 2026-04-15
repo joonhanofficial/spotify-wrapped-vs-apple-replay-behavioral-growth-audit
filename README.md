@@ -32,3 +32,8 @@ The analysis focused on three layers: the visible distribution gap, the likely f
 ## Reading Path
 
 Start with this README for the project overview, then move to `docs/methodology.md` for the comparison logic, `docs/key-findings.md` for the main conclusions, and `docs/assumptions-and-limitations.md` for the evidence boundaries and caution areas.
+
+## Current Evidence Status
+
+This repo currently contains the reconstructed case framework, methodological boundaries, early source inventory, and first-pass comparison notes. 
+Additional raw captures, public-signal references, and flow evidence can be added over time to strengthen the case's evidence base.
