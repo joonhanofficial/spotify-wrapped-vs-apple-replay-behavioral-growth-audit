@@ -45,7 +45,7 @@ These visuals provide early support for the case's core comparison: visible circ
 
 ![Flow comparison](assets/flow-comparison.png)
 
-### TikTok Hashtag Audit
+### Instagram Hashtag Audit
 
 ![TikTok hashtag audit](assets/tiktok-hashtag-audit.png)
 
