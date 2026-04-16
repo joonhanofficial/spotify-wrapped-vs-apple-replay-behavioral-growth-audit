@@ -47,7 +47,7 @@ These visuals provide early support for the case's core comparison: visible circ
 
 ### Instagram Hashtag Audit
 
-![TikTok hashtag audit](assets/tiktok-hashtag-audit.png)
+![Instagram hashtag audit](assets/instagram-hashtag-audit.png)
 
 ### Google Trends Comparison
 
