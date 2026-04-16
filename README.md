@@ -52,3 +52,8 @@ These visuals provide early support for the case's core comparison: visible circ
 ### Google Trends Comparison
 
 ![Google Trends comparison](assets/google-trends-comparison.png)
+
+## Deeper Evidence Trail
+
+For raw source tracking, see `data/raw/source-inventory.md`.  
+For cleaned comparison logic, see `data/processed/comparison-notes.md`.
